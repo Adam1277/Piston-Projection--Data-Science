@@ -2,8 +2,6 @@
 
 ### The Relationship between the Cylinder count and Quarter mile time for auto mobiles.
 
-#### Adam Levere, 100864665
-
 ### Introduction:
 
  * **My question:** To explore and compare the relationships between cylinder count and quarter mile time. Which in itself has many independent variables affecting its dependent counterparts.
